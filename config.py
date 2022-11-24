@@ -1,5 +1,5 @@
 settings = {
-    'CLIENT_ID':'FUDMAj2Hn-umYDeVt1JIJw',
-    'SECRET_CODE':'MkY4u2bYVNxJsT1UqXFBF0KyVlBKWQ',
-    'TOKEN':'5555499097:AAFwX2bxi6ZpkF48W4AOcLrz9tbb9_Oy7_E'
+    'CLIENT_ID':'your reddit client ID',
+    'SECRET_CODE':'secret code of reddit api',
+    'TOKEN':'your telegram bot token'
 }
