@@ -6,7 +6,7 @@ This bot parse memes from Reddit r/memes.
 In future I will add more features like choosing subreddit to parse and adding to diff telegram channels.
 
 <h2> Mini docks 😅</h2>
-<b>How to get Client_ID and Secret Code from Reddit?</b>
+<b>How to get Client_ID and Secret Code from Reddit?</b> <br>
 1. Go ,<a href="https://reddit.com/prefs/apps"> here</a> <br>
 2. Scroll Down and press button <br>
 3. <img width="927" alt="image" src="https://user-images.githubusercontent.com/97046736/203867007-04834e55-745b-40aa-b1e0-83755fd58abb.png"> <br>
@@ -16,4 +16,4 @@ In future I will add more features like choosing subreddit to parse and adding t
 
 
 <h2>Other</h2>
-If you want, you can inform me <a href="https://t.me/dontbesoseriouspls">here</a> about writing docs etc.
+If you want, you can ask me <a href="https://t.me/dontbesoseriouspls">here</a> for help or other info about my bot. 
