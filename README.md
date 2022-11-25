@@ -7,11 +7,11 @@ In future I will add more features like choosing subreddit to parse and adding t
 
 <h2> Mini docks 😅</h2>
 <b>How to get Client_ID and Secret Code from Reddit?</b>
-1. Go ,<a href="https://reddit.com/prefs/apps"> here</a>
-2. Scroll Down and press button 
-3. <img width="927" alt="image" src="https://user-images.githubusercontent.com/97046736/203867007-04834e55-745b-40aa-b1e0-83755fd58abb.png">
-4. Click "script", create name, description and url's are optional
-5. Click "Create App"
+1. Go ,<a href="https://reddit.com/prefs/apps"> here</a> <br>
+2. Scroll Down and press button <br>
+3. <img width="927" alt="image" src="https://user-images.githubusercontent.com/97046736/203867007-04834e55-745b-40aa-b1e0-83755fd58abb.png"> <br>
+4. Click "script", create name, description and url's are optional <br>
+5. Click "Create App" <br>
 6. <img width="465" alt="Снимок экрана 2022-11-25 в 00 51 24" src="https://user-images.githubusercontent.com/97046736/203868247-f0cc2a07-8b36-4ec8-a303-8288cab09793.png">
 
 
