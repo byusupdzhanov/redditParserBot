@@ -3,11 +3,12 @@ It is not final version. Hmm... maybe it is <b>version 1.0.0</b>
 
 <h2> How it works?</h2>
 This bot parse memes from Reddit r/memes. 
-In future I will add more features like choosing subreddit to parse and adding to diff telegram channels.
+In future I will add more features like choosing subreddit to parse and adding to diff telegram channels. <br>
+You can watch mini-presentation about project <a href="https://my.visme.co/view/x4n6pwjw-oq6lx93jkqowl9wp">here</a>. Thanks!
 
 <h2> Mini docks 😅</h2>
 <b>How to get Client_ID and Secret Code from Reddit?</b> <br>
-1. Go ,<a href="https://reddit.com/prefs/apps"> here</a> <br>
+1. Go<a href="https://reddit.com/prefs/apps"> here</a> <br>
 2. Scroll Down and press button <br>
 3. <img width="927" alt="image" src="https://user-images.githubusercontent.com/97046736/203867007-04834e55-745b-40aa-b1e0-83755fd58abb.png"> <br>
 4. Click "script", create name, description and url's are optional <br>
